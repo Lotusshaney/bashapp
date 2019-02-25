@@ -31,6 +31,7 @@ SOFTWARE.
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
+#include <time.h>
 
 #define DEFAULT_KEY_LEN 32
 
